@@ -1,2 +1,2 @@
-# FirstHtmlProject
+# HtmlBasicsFirstProject
 my first html project
